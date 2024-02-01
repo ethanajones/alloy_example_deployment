@@ -1,6 +1,8 @@
 ## Overview
 
-This project is a very basic app with a React frontend and Express backend. This app shows how easy it is to get started with [Alloy's Unified API](https://runalloy.com/unified-api/).
+This project is a superrr basic app with a React frontend and Express backend. This app shows how we could integrate Alloy with Nexum [Alloy's Unified API](https://runalloy.com/unified-api/).
+
+The best way to understand this is to build it yourself, here's the quick start guide [Alloy Quick Start](https://docs-uapi.runalloy.com/docs/quick-start). But I will also include how to run my current code.
 
 ## Installation
 
